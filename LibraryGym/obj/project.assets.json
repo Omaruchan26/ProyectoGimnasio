@@ -1680,11 +1680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\LibraryGym.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\LibraryGym.csproj",
       "projectName": "LibraryGym",
-      "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\LibraryGym.csproj",
+      "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\LibraryGym.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\obj\\",
+      "outputPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

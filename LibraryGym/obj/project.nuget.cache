@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaL3ep+scCo=",
+  "dgSpecHash": "0lYpHG4Dj2I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\LibraryGym.csproj",
+  "projectFilePath": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\LibraryGym.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josem\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\josem\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
