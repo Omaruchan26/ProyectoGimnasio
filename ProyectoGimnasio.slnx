@@ -3,6 +3,8 @@
   <Folder Name="/2. servicios/">
     <Project Path="LibraryGym/LibraryGym.csproj" />
   </Folder>
-  <Folder Name="/3.pruebas unitarias/" />
+  <Folder Name="/3.pruebas unitarias/">
+    <Project Path="UnitariasGym/UnitariasGym.csproj" Id="58f4ae39-86ff-46fc-b932-c1993e17ba98" />
+  </Folder>
   
 </Solution>

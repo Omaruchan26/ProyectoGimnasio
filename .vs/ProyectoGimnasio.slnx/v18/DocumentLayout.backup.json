@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\",
+  "WorkspaceRootPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\entidades\\administrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\entidades\\administrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Administrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\Entidades\\Administrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\nucleo\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\nucleo\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\Entidades\\Personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Interfaces\\IConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\Interfaces\\IConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\nucleo\\Configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\nucleo\\Configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\entidades\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\entidades\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|c:\\users\\josem\\onedrive\\escritorio\\gymconexion (2)\\gymconexion\\librarygym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{373BF6BF-CFFF-5231-9B0D-ECB6DACA3BB4}|LibraryGym\\LibraryGym.csproj|solutionrelative:librarygym\\scrip.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Implementaciones\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryGym\\Implementaciones\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,36 +54,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "scrip.sql ",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\scrip.sql",
+              "DocumentIndex": 1,
+              "Title": "scrip.sql",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\scrip.sql",
               "RelativeDocumentMoniker": "LibraryGym\\scrip.sql",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\scrip.sql",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\scrip.sql",
               "RelativeToolTip": "LibraryGym\\scrip.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-04-14T02:19:24.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T02:19:24.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Personas.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Entidades\\Personas.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Personas.cs",
               "RelativeDocumentMoniker": "LibraryGym\\Entidades\\Personas.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Entidades\\Personas.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Personas.cs",
               "RelativeToolTip": "LibraryGym\\Entidades\\Personas.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T01:08:56.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T01:08:56.73Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Administrativos.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Entidades\\Administrativos.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Administrativos.cs",
               "RelativeDocumentMoniker": "LibraryGym\\Entidades\\Administrativos.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Entidades\\Administrativos.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Entidades\\Administrativos.cs",
               "RelativeToolTip": "LibraryGym\\Entidades\\Administrativos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,40 +92,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Interfaces\\IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Interfaces\\IConexion.cs",
               "RelativeDocumentMoniker": "LibraryGym\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Interfaces\\IConexion.cs",
               "RelativeToolTip": "LibraryGym\\Interfaces\\IConexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T22:18:51.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T22:18:51.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Configuraciones.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\nucleo\\Configuraciones.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\nucleo\\Configuraciones.cs",
               "RelativeDocumentMoniker": "LibraryGym\\nucleo\\Configuraciones.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\nucleo\\Configuraciones.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\nucleo\\Configuraciones.cs",
               "RelativeToolTip": "LibraryGym\\nucleo\\Configuraciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T22:17:17.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T22:17:17.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Implementaciones\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Implementaciones\\Conexion.cs",
               "RelativeDocumentMoniker": "LibraryGym\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\GymConexion (2)\\GymConexion\\LibraryGym\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\josem\\OneDrive\\Escritorio\\ProyectoGimnasio\\LibraryGym\\Implementaciones\\Conexion.cs",
               "RelativeToolTip": "LibraryGym\\Implementaciones\\Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T22:16:00.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T22:16:00.294Z"
             }
           ]
         }
